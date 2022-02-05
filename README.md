@@ -1,4 +1,4 @@
-![Header](https://github.com/little-beetle/little-beetle/blob/main/assets/the_wall.jpg)
+![Header](https://github.com/little-beetle/little-beetle/blob/main/assets/night.jpg)
 
 About me
 
