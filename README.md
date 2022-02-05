@@ -1,6 +1,6 @@
 ![Header](https://github.com/little-beetle/little-beetle/blob/main/assets/night.jpg)
 
-About me
+@@ I'm beginner python programmer
 
 Languages and Tools
 
